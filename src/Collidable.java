@@ -1,7 +1,4 @@
-//ID: 316266683
-/**
- * @author Aviv Rahamim
- */
+
 public interface Collidable {
 
     /**
