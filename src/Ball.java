@@ -1,8 +1,6 @@
-//ID: 316266683
+
 import biuoop.DrawSurface;
-/**
- * @author Aviv Rahamim
- */
+
 public class Ball implements Sprite {
     //field
     private Point center;
