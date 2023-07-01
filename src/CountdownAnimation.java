@@ -1,4 +1,4 @@
-//ID: 316266683
+
 import biuoop.DrawSurface;
 import biuoop.Sleeper;
 import java.awt.Color;
