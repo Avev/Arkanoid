@@ -1,7 +1,4 @@
-//ID: 316266683
-/**
- * @author Aviv Rahamim
- */
+
 // Velocity specifies the change in position on the `x` and the `y` axes.
 public class Velocity {
     /**
