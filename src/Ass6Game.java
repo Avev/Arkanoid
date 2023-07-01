@@ -1,11 +1,9 @@
-//ID: 316266683
+
 import biuoop.GUI;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Aviv Rahamim
- */
+
 public class Ass6Game {
     /**
      * main function.
