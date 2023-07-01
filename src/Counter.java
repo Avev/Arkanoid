@@ -1,4 +1,3 @@
-//ID: 316266683
 
 /**
  * counter class.
