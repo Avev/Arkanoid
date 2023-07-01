@@ -1,9 +1,7 @@
-//ID: 316266683
+
 import java.util.List;
 import java.util.ArrayList;
-/**
- * @author Aviv Rahamim
- */
+
 public class GameEnvironment {
     // field
     private List<Collidable> collidables;
