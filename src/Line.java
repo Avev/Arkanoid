@@ -1,8 +1,6 @@
-//ID: 316266683
+
 import java.util.List;
-/**
- * @author Aviv Rahamim
- */
+
 public class Line {
     // field
     private Point start;
