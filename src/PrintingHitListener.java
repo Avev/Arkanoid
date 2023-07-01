@@ -1,5 +1,3 @@
-//ID: 316266683
-
 /**
  * PrintingHitListener class.
  */
