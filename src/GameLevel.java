@@ -1,13 +1,11 @@
-//ID: 316266683
+
 import biuoop.DrawSurface;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
 import biuoop.Sleeper;
 import biuoop.KeyboardSensor;
-/**
- * @author Aviv Rahamim
- */
+
 public class GameLevel implements Animation {
 
     //field
